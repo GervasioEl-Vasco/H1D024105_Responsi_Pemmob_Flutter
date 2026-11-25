@@ -8,7 +8,7 @@ Aplikasi ramalan cuaca modern yang dibangun menggunakan framework **Flutter** da
 
 ---
 
-## 📱 Daftar Halaman (Screens)
+## Daftar Halaman (Screens)
 
 Aplikasi terdiri dari minimal 2 screen utama sesuai spesifikasi responsi:
 
@@ -72,7 +72,7 @@ Komponen antarmuka pengguna (UI) yang bersifat reaktif terhadap perubahan state 
 
 ---
 
-## 🌐 Implementasi REST API Open-Meteo
+## Implementasi REST API Open-Meteo
 
 API yang digunakan adalah API publik dari Open-Meteo tanpa memerlukan API key:
 
@@ -97,7 +97,7 @@ API yang digunakan adalah API publik dari Open-Meteo tanpa memerlukan API key:
 
 ---
 
-## 📂 Struktur Direktori Proyek
+## Struktur Direktori Proyek
 
 ```
 lib/
@@ -136,16 +136,16 @@ lib/
 
 ---
 
-## 📸 Tangkapan Layar Aplikasi (Screenshots)
+## Tangkapan Layar Aplikasi (Screenshots)
 
-| Layar Cuaca Utama (Home) | Layar Pencarian & Favorit | State Error & Penanganan Jaringan |
-| :---: | :---: | :---: |
-| *(Tangkapan layar Home Screen)* | *(Tangkapan layar Search Screen)* | *(Tangkapan layar Error Screen)* |
-| `screenshots/home_screen.png` | `screenshots/search_screen.png` | `screenshots/error_screen.png` |
+| Layar Cuaca Utama (Home) | Perkiraan Cuaca 7 Hari | Pencarian & Favorit | Hasil Pencarian Kota |
+| :---: | :---: | :---: | :---: |
+| <img src="screenshots/home_screen.png" width="220" alt="Home Screen" /> | <img src="screenshots/forecast_screen.png" width="220" alt="Forecast 7 Hari" /> | <img src="screenshots/search_empty.png" width="220" alt="Search Empty" /> | <img src="screenshots/search_screen.png" width="220" alt="Search Result" /> |
+| *Hero card suhu & detail cuaca terkini* | *Prediksi cuaca 7 hari & rentang suhu* | *Tampilan awal menu pencarian & favorit* | *Hasil pencarian real-time via Geocoding API* |
 
 ---
 
-## ⚙️ Cara Menjalankan Proyek
+## Cara Menjalankan Proyek
 
 ### 1. Prasyarat
 * Flutter SDK (v3.13.0 ke atas)
