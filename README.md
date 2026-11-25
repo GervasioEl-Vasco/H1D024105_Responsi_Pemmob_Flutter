@@ -1,3 +1,7 @@
+**Nama: Khoiri Faldi Marwan Hakim**
+
+**NIM: H1D024105**
+
 # Aplikasi Cuaca Open-Meteo (Responsi Flutter)
 
 Aplikasi ramalan cuaca modern yang dibangun menggunakan framework **Flutter** dan bahasa pemrograman **Dart**, menerapkan arsitektur **Model-View-ViewModel (MVVM)**, serta mengintegrasikan **REST API Open-Meteo** (Weather Forecast & Geocoding API) dan **Local Storage** (`shared_preferences`) untuk manajemen lokasi favorit.
@@ -32,7 +36,7 @@ Aplikasi terdiri dari minimal 2 screen utama sesuai spesifikasi responsi:
 
 ---
 
-## 🏛️ Arsitektur Aplikasi (MVVM)
+## Arsitektur Aplikasi (MVVM)
 
 Aplikasi ini menerapkan pola desain **Model-View-ViewModel (MVVM)** yang memisahkan tanggung jawab kode secara modular:
 
@@ -139,8 +143,6 @@ lib/
 | *(Tangkapan layar Home Screen)* | *(Tangkapan layar Search Screen)* | *(Tangkapan layar Error Screen)* |
 | `screenshots/home_screen.png` | `screenshots/search_screen.png` | `screenshots/error_screen.png` |
 
-> *Catatan: Letakkan tangkapan layar aplikasi ke dalam folder `screenshots/` sesuai tabel di atas sebelum pengumpulan.*
-
 ---
 
 ## ⚙️ Cara Menjalankan Proyek
@@ -153,7 +155,7 @@ lib/
 ### 2. Langkah Menjalankan
 1. Clone repositori ke komputer lokal Anda:
    ```bash
-   git clone <URL_REPOSITORY_ANDA>
+   git clone 
    cd Responsi-Flutter
    ```
 2. Pasang semua dependensi aplikasi:
@@ -172,8 +174,6 @@ lib/
 
 ---
 
-## 📝 Informasi Pengumpulan Responsi
-* **Mata Kuliah**: Praktikum Pemrograman Bergerak / Flutter
-* **Batas Waktu**: 26 November 2026, Pukul 10:00 WIB
-* **Form Pengumpulan**: [Google Forms Responsi Flutter](https://forms.gle/vz5LUdPVZmJ2F5uKA)
+## Informasi Pengumpulan Responsi
+* **Mata Kuliah**: Praktikum Pemrograman Flutter
 * **Tautan Video Penjelasan**: *(Cantumkan link YouTube / Google Drive video penjelasan kode)*
